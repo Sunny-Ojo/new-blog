@@ -107,7 +107,7 @@
         </script>
     @endif
     <div class="p-3 mb-15">
-        <h4 class="text-center text-danger"><ins>{{ ucfirst($title) ?? 'Random News Articles' }} </ins></h4>
+        <h3 class="text-center text-danger"><ins>{{ ucfirst($title) ?? 'Random News Articles' }} </ins></h3>
     </div>
     <!-- ***** Blog Area Start ***** -->
     <section class="blog-area">
@@ -139,6 +139,7 @@
                                     </a>
                                 </div>
                             </div>
+                            <hr>
 
                         @endforeach
                     @endif
