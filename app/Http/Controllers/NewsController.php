@@ -16,7 +16,7 @@ class NewsController extends Controller
         $getContents = file_get_contents($url, true);
         $decodeData = json_decode($getContents, true);
         // dd($decodeData);
-        return view('welcome')->with('data', $decodeData);
+        return view('welcome')->with(['data' => $decodeData, 'title' => 'Top Headline' . ' ' . 'Articles']);
     }
     public function category($category)
     {
