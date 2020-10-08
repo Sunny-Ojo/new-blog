@@ -34,7 +34,6 @@ class NewsController extends Controller
             'phone' => 'required',
             'message' => 'required'
         ]);
-        return new NewContactMessageFromENews($data);
         Mail::to('njokusunnyojo@gmail.com')->send(new NewContactMessageFromENews($data));
         return redirect()->back()->with('success', 'Message Sent !!!');
     }
