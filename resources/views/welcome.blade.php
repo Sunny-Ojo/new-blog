@@ -3,7 +3,8 @@
 
 <head>
     <meta charset="UTF-8">
-    <meta name="description" content="Poca - Podcast &amp; Audio Template">
+    <meta name="description" content="This is a news blog website built with a news api by Sunny Ojo">
+    <meta name="author" content="Sunny Ojo">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
@@ -67,7 +68,7 @@
 
 
 
-                            <!-- Top Social Area -->
+
 
 
                         </div>
@@ -287,19 +288,7 @@
                             for building back-end
                             functionalities of websites and web applications. I love coding and building awesome stuffs.
                             I'm always ready to learn new things to improve my career. .</p>
-                        <div class="copywrite-content">
-                            <p>&copy;
 
-                                <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-                                Copyright &copy;<script>
-                                    document.write(new Date().getFullYear());
-
-                                </script> All rights reserved | This template is made with <i class="fa fa-heart-o"
-                                    aria-hidden="true"></i> by <a href="https://colorlib.com"
-                                    target="_blank">Colorlib</a>
-                                <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-                            </p>
-                        </div>
                     </div>
                 </div>
 
@@ -345,8 +334,14 @@
                                 data-toggle="tooltip" data-placement="top" title="LinkedIn"><i
                                     class="fa fa-linkedin"></i></a>
 
-                        </div>
 
+
+                        </div>
+                        <div class="copywrite-content">
+                            <p>Template by <a href="https://colorlib.com" target="_blank">Colorlib</a>
+                                <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+                            </p>
+                        </div>
                     </div>
                 </div>
 
