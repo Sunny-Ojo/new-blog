@@ -190,9 +190,9 @@
                         </div>
 
 
-                        <div class="LI-profile-badge" data-version="v1" data-size="medium" data-locale="en_US"
-                            data-type="vertical" data-theme="dark" data-vanity="sunny-ojo-b914b9187"><a
-                                class="LI-simple-link"
+                        <div class="LI-profile-badge text-center" data-version="v1" data-size="medium"
+                            data-locale="en_US" data-type="vertical" data-theme="dark"
+                            data-vanity="sunny-ojo-b914b9187"><a class="LI-simple-link"
                                 href='https://ng.linkedin.com/in/sunny-ojo-b914b9187?trk=profile-badge'>Sunny Ojo</a>
                         </div>
 
